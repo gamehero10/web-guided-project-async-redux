@@ -1,0 +1,10 @@
+{"results":[{"gender":"male",
+"name":{"title":"Mr","first":"Danilo","last":"Kaps"},
+"location":{"street":{"number":8437,"name":"Kastanienweg"},
+"city":"Gifhorn",
+"state":"Sachsen-Anhalt",
+"country":"Germany",
+"postcode":67609,
+"coordinates":{"latitude":"-47.6284","longitude":"-167.7869"},
+"timezone":{"offset":"-3:00","description":"Brazil, Buenos Aires, Georgetown"}},
+"email":"danilo.kaps@example.com","login":{"uuid":"265d74da-5a04-4247-a7ca-cdc3cb372afa","username":"smallostrich806","password":"indon","salt":"wOcqjsDP","md5":"a09eb61e0ce5276d6d5b66e08e941fb9","sha1":"52d42875d016859543cff7457c33a2d869d42566","sha256":"63edca621c7e9b1144b50a537855aa99f10c2c8dac3257d4a93ad097467dfe99"},"dob":{"date":"1990-11-29T11:21:57.509Z","age":32},"registered":{"date":"2017-08-21T18:28:23.640Z","age":6},"phone":"0872-4169661","cell":"0179-3988697","id":{"name":"SVNR","value":"73 291190 K 189"},"picture":{"large":"https://randomuser.me/api/portraits/men/19.jpg","medium":"https://randomuser.me/api/portraits/med/men/19.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/19.jpg"},"nat":"DE"}],"info":{"seed":"64db76fbb892eb26","results":1,"page":1,"version":"1.4"}}
